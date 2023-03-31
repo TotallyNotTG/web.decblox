@@ -1,0 +1,18 @@
+document.write('<nav class="top-nav">');
+document.write('            <div class="nav-container">');
+document.write('                <div class="left-container-nav">');
+document.write('                    <div class="logo hover"></div>');
+document.write('                    <div class="navigation-pages">');
+document.write('                        <a href="home.html"><button class="pages hover">Home</button></a>');
+document.write('                        <a href="games.html"><button class="pages hover">Games</button></a>');
+document.write('                        <a href="catalog.html"><button class="pages hover">Catalog</button></a>');
+document.write('                        <a href="develop.html"><button class="pages hover">Build</button></a>');
+document.write('                        <a href="currency.html"><button class="pages hover">Currency</button></a>');
+document.write('                        <a href="devforum.html"><button class="pages hover">Forum</button></a>');
+document.write('                    </div>');
+document.write('                </div>');
+document.write('                <div class="right-container-nav">');
+document.write('                    <a href="" style="color: white;margin-top: 8px;margin-left: auto;">@DeclanGames</a>');
+document.write('                </div>');
+document.write('            </div>');
+document.write('        </nav>');
