@@ -4,7 +4,7 @@
     position: fixed;
     margin-top: -38px;
     margin-left: -8px;
-    background: #114081 url(https://totallynottg.github.io/web.decblox/images.dcblx.com/gradient-nav.png) repeat-x;
+    background: #2D528F;
     display: flex;
 }
 .nav-container {
@@ -28,7 +28,7 @@
     width: 176px;
     background:  url(https://totallynottg.github.io/web.decblox/images.dcblx.com/olliebloxlogo.png) no-repeat center;
     background-size: 100%;
-    margin-left: 220px;
+    margin-left: 70px;
 }
 .navigation-pages {
     height: 100%;
@@ -46,4 +46,5 @@
 }
 .hover:hover {
     background-color: #255eae;
+    border-radius: 10px;
 }
