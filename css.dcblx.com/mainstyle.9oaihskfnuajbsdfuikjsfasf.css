@@ -284,3 +284,13 @@
     
 }
 /**/
+/*Friends List*/
+.friends-list {
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(200,200,200);
+}
+.main-list {
+    display: flex;
+}
+/*.....*/
