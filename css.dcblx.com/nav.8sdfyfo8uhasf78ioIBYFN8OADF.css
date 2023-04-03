@@ -25,8 +25,8 @@
 }
 .logo {
     height: 35px;
-    width: 176px;
-    background:  url(https://totallynottg.github.io/web.decblox/images.dcblx.com/olliebloxlogo.png) no-repeat center;
+    width: 35px;
+    background:  url(https://totallynottg.github.io/web.decblox/images.dcblx.com/weblogo.png) no-repeat center;
     background-size: 100%;
     margin-left: 40px;
 }
@@ -47,4 +47,13 @@
 .hover:hover {
     background-color: #255eae;
     border-radius: 10px;
+}
+@media (min-width: 1688px) {
+    .logo {
+        height: 35px;
+        width: 176px;
+        margin-top: 5px;
+        background: transparent url(https://totallynottg.github.io/web.decblox/images.dcblx.com/olliebloxlogo.png) no-repeat center;
+        background-size: 100%;
+    }
 }
