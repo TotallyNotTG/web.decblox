@@ -86,6 +86,14 @@
     width: 150px;
     height: 241px;
     margin-left: 10px;
+    background-color: rgb(255,255,255);
+    border-radius: 3px;
+    box-shadow: 0 20px 15px -20px rgba(0,0,0,.5);
+    cursor: pointer;
+    transition: box-shadow 0.1s;
+}
+.game-card:hover {
+    box-shadow: 0 20px 15px -0px rgba(0,0,0,.5);
 }
 .left-nav {
     width: 150px;
@@ -294,7 +302,10 @@
 .friends-list {
     width: 100%;
     height: fit-content;
-    background-color: rgb(200,200,200);
+    background-color: white;
+}
+.hide-controlled {
+    display: none;
 }
 .main-list {
     display: flex;
