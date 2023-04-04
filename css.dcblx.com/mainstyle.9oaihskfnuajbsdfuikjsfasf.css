@@ -312,3 +312,29 @@
     display: flex;
 }
 /*.....*/
+/*NEW Catalog Design!*/
+.dropdown {
+    border: 0px;
+}
+.all-ft::marker {
+    width: 0px;
+    height: 0px;
+}
+.catalog-item {
+    background-color: rgb(250,250,250);
+    border: 0px;
+    margin-left: 10px;
+    border-radius: 3px;
+    box-shadow: 0 20px 15px -20px rgba(0,0,0,.5);
+    cursor: pointer;
+    transition: box-shadow 0.1s;
+}
+.catalog-img {
+    background-color: white;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+.catalog-item:hover {
+    box-shadow: 0 20px 15px -0px rgba(0,0,0,.5);
+}
+/**/
