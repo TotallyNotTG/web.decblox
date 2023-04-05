@@ -39,7 +39,7 @@
     height: 100%;
     width: fit-content;
     color: white;
-    font-weight: 500;
+    font-weight: 600;
     background-color: transparent;
     border: 0px;
     cursor: pointer;
@@ -53,7 +53,7 @@
         height: 35px;
         width: 176px;
         margin-top: 5px;
-        background: transparent url(https://totallynottg.github.io/web.decblox/images.dcblx.com/olliebloxlogo.png) no-repeat center;
+        background: transparent url(https://totallynottg.github.io/web.decblox/images.dcblx.com/text-1669918561590.png) no-repeat center;
         background-size: 100%;
     }
 }
