@@ -6,7 +6,7 @@ document.write('                    <div class="navigation-pages">');
 document.write('                        <a href="games"><button class="pages hover">Games</button></a>');
 document.write('                        <a href="catalog"><button class="pages hover">Catalog</button></a>');
 document.write('                        <a href="develop"><button class="pages hover">Develop</button></a>');
-document.write('                        <a href="currency"><button class="pages hover">DECBUX</button></a>');
+document.write('                        <a href="currency"><button class="pages hover">Decbux</button></a>');
 document.write('                    </div>');
 document.write('                </div>');
 document.write('                <div class="right-container-nav">');
