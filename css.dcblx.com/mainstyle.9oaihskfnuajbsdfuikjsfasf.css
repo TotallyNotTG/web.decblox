@@ -338,3 +338,111 @@
     box-shadow: 0 20px 15px -0px rgba(0,0,0,.5);
 }
 /**/
+/*NEW GAME CSS*/
+.game-img {
+    width: 680px;
+    height: fit-content;
+}
+.game-play-action {
+    width: 300px;
+    height: fit-content;
+    margin-left: 690px;
+    position: absolute;
+}
+.includes-gamecard-title {
+    width: 100%;
+}
+.made-by:hover {
+    border-bottom: 2px solid rgb(0,200,255);
+}
+.ssl-play-text {
+    background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxkZWZzPjxwYXRoIGQ9Ik0xOSA4LjVsMTEuOTI1IDE2LjAzNmMuODUxIDEgLjc0NSAyLjUxMi0uMjM3IDMuMzc5YTIuMzMgMi4zMyAwIDAgMS0xLjU0Mi41ODVIOC44NTRjLTEuMyAwLTIuMzU0LTEuMDczLTIuMzU0LTIuMzk1IDAtLjU3Ny4yMDQtMS4xMzQuNTc1LTEuNTdMMTkgOC41eiIgaWQ9ImEiLz48L2RlZnM+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48dXNlIGZpbGw9IiNGRkYiIHRyYW5zZm9ybT0icm90YXRlKDkwIDE5IDE4LjUpIiB4bGluazpocmVmPSIjYSIvPjxwYXRoIGQ9Ik0xOCA3MkM4LjA1OSA3MiAwIDYzLjk0MSAwIDU0czguMDU5LTE4IDE4LTE4IDE4IDguMDU5IDE4IDE4LTguMDU5IDE4LTE4IDE4em03LjYtMTcuNjk1bC05LjQ2LTcuMTZhMS40MTMgMS40MTMgMCAwIDAtMi4zNCAxLjA2OHYxMi4xODRhMS40MTMgMS40MTMgMCAwIDAgMi4zNCAxLjA2OGw5LjQ2LTcuMTZ6IiBmaWxsLW9wYWNpdHk9Ii45IiBmaWxsPSIjRkZGIi8+PC9nPjwvc3ZnPg==) no-repeat top left;
+    background-size: 95px;
+    height: 46px;
+    width: 46px;
+    margin-left: 110px;
+    position: absolute;
+}
+.play-btn {
+    width: 280px;
+    background-color: #00b06f;
+    border-radius: 5px;
+    margin-top: 150px;
+}
+.like-dislike-ratio {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+.op {
+    margin-left: 10px;
+}
+.favorite {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/6d89a812844283096c6c39935f02483d-branded_04182018.svg) no-repeat;
+    background-position-y: -83px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.favorite:hover {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/6d89a812844283096c6c39935f02483d-branded_04182018.svg) no-repeat;
+    background-position-y: -83px;
+    background-position-x: -28px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.follow {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/6d89a812844283096c6c39935f02483d-branded_04182018.svg) no-repeat;
+    background-position-y: -250px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.follow:hover {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/6d89a812844283096c6c39935f02483d-branded_04182018.svg) no-repeat;
+    background-position-y: -250px;
+    background-position-x: -28px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.like {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/d76ac184081a4d2969061c60861cd1fe-games.svg) no-repeat;
+    background-position-y: -82px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.like:hover {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/d76ac184081a4d2969061c60861cd1fe-games.svg) no-repeat;
+    background-position-y: -82px;
+    background-position-x: -28px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.dislike {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/d76ac184081a4d2969061c60861cd1fe-games.svg) no-repeat;
+    background-position-y: -110px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.dislike:hover {
+    width: 28px;
+    height: 28px;
+    background: transparent url(https://images.rbxcdn.com/d76ac184081a4d2969061c60861cd1fe-games.svg) no-repeat;
+    background-position-y: -110px;
+    background-position-x: -28px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+/**/
