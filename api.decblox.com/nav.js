@@ -1,7 +1,7 @@
 document.write('<nav class="top-nav">');
 document.write('            <div class="nav-container">');
 document.write('                <div class="left-container-nav">');
-document.write('                    <a href="home"><div class="logo hover"></div></a>');
+document.write('                    <a href="home"><div class="logo"></div></a>');
 document.write('                    <div class="navigation-pages">');
 document.write('                        <a href="games"><button class="pages hover">Games</button></a>');
 document.write('                        <a href="catalog"><button class="pages hover">Catalog</button></a>');
