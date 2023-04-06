@@ -5,7 +5,7 @@ document.write('                    <a href="home"><div class="logo"></div></a>'
 document.write('                    <div class="navigation-pages">');
 document.write('                        <a href="games"><button class="pages hover">Games</button></a>');
 document.write('                        <a href="catalog"><button class="pages hover">Catalog</button></a>');
-document.write('                        <a href="develop"><button class="pages hover renamed-control">Develop</button><button class="pages hover renamed-control">Develop</button></a>');
+document.write('                        <a href="develop"><button class="pages hover renamed-control">Develop</button><button class="pages hover renamed-vis">Create</button></a>');
 document.write('                        <a href="currency"><button class="pages hover">Decbux</button></a>');
 document.write('                    </div>');
 document.write('                </div>');
