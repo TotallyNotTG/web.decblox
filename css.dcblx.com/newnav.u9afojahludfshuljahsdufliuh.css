@@ -21,7 +21,7 @@
     border-radius: 0px;
 }
 .renamed-vis {
-    display: block;
+    display: inline-block;
 }
 .renamed-control {
     display: none;
