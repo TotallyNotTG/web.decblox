@@ -15,6 +15,13 @@
     background-size: 100%;
     margin-left: 40px;
 }
+@media (min-width: 1688px) {
+    height: 35px;
+    width: 155px;
+    background:  url(https://totallynottg.github.io/web.decblox/images.dcblx.com/text-1668565546777.png) no-repeat center;
+    background-size: 100%;
+    margin-left: 40px;
+}
 .hover:hover {
     border-bottom: 2px solid rgb(50,50,50);
     background-color: #dee1e3;
