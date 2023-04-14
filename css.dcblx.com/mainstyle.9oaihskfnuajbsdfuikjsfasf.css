@@ -579,3 +579,74 @@
     display: none;
 }
 /*End*/
+/*Request Errors*/
+.move-down-area {
+    height: 97px;
+    width: 100%;
+}
+.default-error-page {
+    width: 800px;
+    height: 370px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.left-error-page {
+    width: 380px;
+    height: 100%;
+}
+.error-main {
+    display: flex;
+}
+.right-error-page {
+    width: 380px;
+    margin-left: auto;
+    height: 100%;
+}
+.error-img {
+    height: 300px;
+    margin-top: 50px;
+}
+.selection-btns {
+    width: 100%;
+    height: fit-content;
+    margin-top: 140px;
+    display: flex;
+}
+.select-error-btns {
+    width: 90px;
+    height: fit-content;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    display: inline-block;
+    border-radius: 3px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100%;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.norm-btn {
+    background-color: #02b757;
+}
+.norm-btn:hover {
+    background-color: #019245;
+}
+.white-btn {
+    background-color: transparent;
+    color: rgb(50,50,50);
+    border: solid 1px rgb(50,50,50);
+}
+.white-btn:hover {
+    background-color: #ececec;
+}
+.previous-btn {
+    color: white;
+    font-weight: 500;
+}
+.home-btn {
+    color: rgb(50,50,50);
+    font-weight: 500;
+}
+/*END*/
