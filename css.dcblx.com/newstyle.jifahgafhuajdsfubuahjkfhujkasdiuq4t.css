@@ -152,3 +152,20 @@ li {
     background-color: #00a2ff;
 }
 /**/
+/*ERROR FUTURE*/
+.default-error-page {
+    background-color: #ebebeb;
+}
+.norm-btn {
+    background-color: rgb(50,50,50);
+}
+.norm-btn:hover {
+    background-color: rgb(50,50,50);
+}
+.white-btn:hover {
+    background-color: transparent;
+}
+.select-error-btns {
+    border-radius: 8px;
+}
+/**/
